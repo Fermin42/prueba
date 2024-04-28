@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+olx.com.pk	TRUE	/	FALSE	1999999999	anonymous_session_id	389b2b1e-ec70-46bf-857a-72174b6a5db7
+olx.com.pk	TRUE	/	FALSE	1999999999	device_id	lvjynjccjoycn3cs7
+.olx.com.pk	TRUE	/	FALSE	1999999999	_cfuvid	5nXtKpW5tq5GX1HOxibpdajLXgB1masQqo.Tajzl1LQ-1714334761436-0.0.1.1-604800000
+www.olx.com.pk	TRUE	/	FALSE	1999999999	SameSite	None
+
